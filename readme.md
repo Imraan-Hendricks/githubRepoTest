@@ -1,2 +1,2 @@
-#Git Test
-Testing basic functionality of github
+### Git Test
+# Testing basic functionality of github
